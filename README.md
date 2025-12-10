@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yasmine's Clean Microservices Project
 
 A production-ready microservices architecture built with Spring Boot 3.2.0, Spring Cloud, and Java 21.
@@ -153,3 +154,6 @@ Yasmine - Clean Java Code Project
 - For production, replace with PostgreSQL, MySQL, or other production databases
 - Services auto-register with Eureka Discovery Service
 - Gateway automatically discovers services and routes traffic
+=======
+# microservices-project
+>>>>>>> cf012b49dca3c9c768df6cc112b02138f6d32c9d
